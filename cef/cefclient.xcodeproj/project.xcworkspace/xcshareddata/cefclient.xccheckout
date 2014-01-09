@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CDA0D653-1097-4948-B711-AFB671354B62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cefclient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6850112-8B82-4DDD-A7A0-EE7CB9AC68D0</key>
+		<string>ssh://r18/r18/tsg-cef-mac</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cef/cefclient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6850112-8B82-4DDD-A7A0-EE7CB9AC68D0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://r18/r18/tsg-cef-mac</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6850112-8B82-4DDD-A7A0-EE7CB9AC68D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6850112-8B82-4DDD-A7A0-EE7CB9AC68D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tsg-cef-mac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
